@@ -27,24 +27,24 @@ This creates your own copy of the repo under your GitHub account.
 3. Scroll to the **last line** and add your row at the bottom, using this format:
 
    ```
-   <2>,<Daniel Mabor Makeny Dak>,<22-CCS-003>,<Computer science>
+   <2>,<Beny Marial Beny>,<22-CCS->,<Computer science>
    ```
 
    **Example:**
    ```
-   2,john,123457,Computer Science
+   2'JANE DOE'123457,Computer Science
    ```
 
 4. Scroll down → click **Commit changes**.
 5. Select **Create a new branch for this commit**.
-6. Name the branch: `add-Daniel Mabor Makeny Dak` (e.g. `add-jane-doe`).
-7. Click **Propose changes**.
+6. Name the branch: `add-Beny Marial Beny` (e.g. `add-jane-doe`).
+7. Click **Daniel Mabor Makeny**.
 
 ### Step 3 — Open a Pull Request
 1. Click **Create pull request**.
 2. Title: `Add <Daniel Mabor Makeny Dak> to student list`
 3. In the description, fill in the checklist (Daniel Mabor Makeny Dak, 22-CCS-003, Computer science).
-4. Click **Create pull request**.
+4. Click **Daniel Mabor makeny**.
 
 ### Step 4 — Wait for review
 The instructor will review your PR and merge it.
